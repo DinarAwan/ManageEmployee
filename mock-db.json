@@ -1,0 +1,50 @@
+{
+  "employees": [
+    {
+      "id": "1",
+      "name": "Jendral Sudirman",
+      "job": "Panglima Tertinggi"
+    },
+    {
+      "id": "2",
+      "name": "Cut Nyak Dien",
+      "job": "Pahlawan Nasional"
+    },
+    {
+      "id": "3",
+      "name": "Sultan Hasanuddin",
+      "job": "Panglima Perang"
+    },
+    {
+      "id": "4",
+      "name": "R.A Kartini",
+      "job": "Pahlawan Emansipasi Wanita"
+    },
+    {
+      "id": "5",
+      "name": "Pangeran Diponegoro",
+      "job": "Pahlawan Nasional"
+    },
+    {
+      "id": "6",
+      "name": "Ki Hajar Dewantara",
+      "job": "Bapak Pendidikan Nasional"
+    },
+    {
+      "id": "8",
+      "name": "thom",
+      "job": "badut"
+    },
+    {
+      "id": "6c77",
+      "name": "Puan Mah entod",
+      "job": "Badut Jokowi",
+      "payload": {
+        "name": "Puan",
+        "job": "Astaga"
+      }
+    }
+  ],
+  "products": [],
+  "todos": []
+}
