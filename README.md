@@ -19,7 +19,8 @@ npm install react-hook-form zod @hookform/resolvers
 npm install react-router
 
 
-## untuk Instal Vite
+## untuk Instal React-ts Dengan Vite
+npm create vite@latest question_and_answerer -- --template react-ts
 
 npm install vite@5.2.0 
 
